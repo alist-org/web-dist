@@ -1,0 +1,1 @@
+import{eN as n,y as r,bV as a,cY as o,an as c,cZ as s}from"./index-1ab8b6da.js";const u=()=>{const[e]=n();return r(s,{get loading(){return e.loading},get children(){return r(a,{class:"word-wrap",get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(c.obj.name)},toc:!0})}})};export{u as default};
