@@ -1,0 +1,1 @@
+const n=(t,e=.2)=>{if(t.startsWith("#")){const r=parseInt(t.slice(1,3),16),s=parseInt(t.slice(3,5),16),a=parseInt(t.slice(5,7),16);return`rgba(${r}, ${s}, ${a}, ${e})`}return t.startsWith("rgb(")?t.replace("rgb(","rgba(").replace(")",`, ${e})`):t.startsWith("rgba(")?t.replace(/[\d.]+\)$/,`${e})`):t};export{n as g};
