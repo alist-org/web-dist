@@ -1,1 +1,0 @@
-import{X as a,f as e,Z as r}from"./index.f0aba90f.js";import{M as n}from"./Markdown.a0dc314d.js";const o=async()=>await(await fetch("https://jsd.nn.ci/gh/alist-org/alist@main/README.md")).text(),c=()=>{const[t]=a(o);return e(r,{get loading(){return t.loading},get children(){return e(n,{get children(){return t()}})}})};export{c as default};
