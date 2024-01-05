@@ -1,1 +1,0 @@
-import{D as r,h as i,cn as a}from"./index.afc5cbef.js";const o=e=>{const n=r("settings_layout");let t;return n==="responsive"&&(t="repeat(auto-fill, minmax(424px, 1fr))"),i(a,{w:"$full",gap:"$2",templateColumns:{"@initial":"1fr","@lg":t},get children(){return e.children}})};export{o as R};

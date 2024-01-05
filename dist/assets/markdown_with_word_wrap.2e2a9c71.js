@@ -1,1 +1,0 @@
-import{cQ as r,h as n,$ as a,Z as o}from"./index.afc5cbef.js";const s=()=>{const[e]=r();return n(o,{get loading(){return e.loading},get children(){return n(a,{class:"word-wrap",get children(){var t;return(t=e())==null?void 0:t.content}})}})};export{s as default};
