@@ -1,1 +1,0 @@
-import{cQ as r,h as n,$ as o,cc as a,Q as c,Z as s}from"./index.75e31196.js";const g=()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(o,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return a(c.obj.name)}})}})};export{g as default};
