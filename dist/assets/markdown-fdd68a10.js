@@ -1,1 +1,0 @@
-import{eg as r,x as n,aq as a,d5 as o,ad as d,ap as s}from"./index-e0a86cdb.js";const g=()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(a,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(d.obj.name)},toc:!0})}})};export{g as default};
