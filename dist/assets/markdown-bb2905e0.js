@@ -1,0 +1,1 @@
+import{eh as r,x as n,aq as a,d6 as o,ad as d,ap as s}from"./index-ad495dea.js";const u=()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(a,{get children(){var t;return(t=e())==null?void 0:t.content},get ext(){return o(d.obj.name)},toc:!0})}})};export{u as default};
