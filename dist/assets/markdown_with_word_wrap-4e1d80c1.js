@@ -1,1 +1,0 @@
-import{en as r,x as n,aq as a,ap as o}from"./index-e907980e.js";const s=()=>{const[e]=r();return n(o,{get loading(){return e.loading},get children(){return n(a,{class:"word-wrap",get children(){var t;return(t=e())==null?void 0:t.content},toc:!0})}})};export{s as default};
