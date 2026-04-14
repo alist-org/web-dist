@@ -1,0 +1,1 @@
+System.register(["./index-legacy.11a05f2d.js"],(function(e,t){"use strict";var r,n,u,l;return{setters:[function(e){r=e.x,n=e.dt,u=e.an,l=e.dw}],execute:function(){e("default",(function(){return r(l,{w:"$full",h:"75vh",get children(){return r(n.iframe,{w:"$full",h:"$full",rounded:"$lg",shadow:"$md",get src(){return u.raw_url},title:"PDF Preview"})}})}))}}}));
