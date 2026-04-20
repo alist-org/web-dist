@@ -1,1 +1,0 @@
-import{x as e,dt as r,an as t,dw as l}from"./index-5b990305.js";const a=()=>e(l,{w:"$full",h:"75vh",get children(){return e(r.iframe,{w:"$full",h:"$full",rounded:"$lg",shadow:"$md",get src(){return t.raw_url},title:"PDF Preview"})}});export{a as default};
